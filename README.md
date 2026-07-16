@@ -1,4 +1,7 @@
 # Laundry-App
+
+> **Created by Antono**
+
 Membuat Aplikasi Laundry Sederhana dengan Android Studio
 
 # Tutorial Build with Android Studio
