@@ -1,38 +1,66 @@
-# Laundry-App
+<!-- README ini dihasilkan otomatis oleh workflow .github/workflows/generate-readme.yml -->
+<!-- Jangan edit manual; perubahan akan ditim pada run berikutnya. -->
 
-> **Created by Antono**
+<h1 align="center">Project 👋</h1>
 
-Membuat Aplikasi Laundry Sederhana dengan Android Studio
+<p align="center">
+  <strong></strong>
+</p>
 
-# Tutorial Build with Android Studio
-https://youtu.be/04bD55Qwc8M
+<p align="center">
+  <a href="https://github.com/antono4/Laundry-App"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/Laundry-App-blue?logo=github"></a>
+  <a href="https://antono4.github.io/Laundry-App/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
+  <img alt="Files" src="https://img.shields.io/badge/Files-93-informational">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-13 13:21:41 WIB-lightgrey">
+</p>
 
-# Tutorial Build with Step by Step
-https://rivaldi48.blogspot.com/2021/12/tutorial-membuat-aplikasi-laundry-dengan-android-studio.html
+---
 
-<img src="https://1.bp.blogspot.com/-sJkNzfCQs1E/Yac2IhJNAxI/AAAAAAAAIFY/w8iSjnGmSSUA5j24ZFiG_HpvLKNx_XF0ACLcBGAsYHQ/s1280/Tutorial%2BMembuat%2BAplikasi%2BLaundry%2Bdengan%2BAndroid%2BStudio.png" data-canonical-src="1.bp.blogspot.com/-sJkNzfCQs1E/Yac2IhJNAxI/AAAAAAAAIFY/w8iSjnGmSSUA5j24ZFiG_HpvLKNx_XF0ACLcBGAsYHQ/s1280/Tutorial%2BMembuat%2BAplikasi%2BLaundry%2Bdengan%2BAndroid%2BStudio.png" style="max-width:100%;">
+## 📖 Tentang
 
-****If you use the Source Code, please make sure to credit and backlink to [Azhar Rivaldi](https://rivaldi48.blogspot.com/)***
+Repository **`Laundry-App`** adalah situs web pribadi / portofolio yang diterbitkan melalui **GitHub Pages**. Situs utama berada di [`https://antono4.github.io/Laundry-App/`](https://antono4.github.io/Laundry-App/).
 
-## 👇 Click For Support Me :
-<a href="https://sociabuzz.com/azharrvldi_/donate"> 
-<img src="https://github.com/AzharRivaldi/AzharRivaldi/blob/master/Support%20Here.png" width="200" height="200"></a>
-
-## 📄 License
-
-```
-Copyright (C) Azhar Rivaldi
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+## 🗂️ Struktur Proyek
 
 ```
+Laundry-App/
+├── index.html          # Halaman utama (landing / portofolio)
+├── assets/             # Aset statis (css, js, img, vendor)
+├── forms/               # Form handler (PHP)
+```
+
+## 🛠️ Teknologi
+
+Berdasarkan isi repository, proyek ini menggunakan:
+
+- `HTML`
+- `CSS`
+- `JavaScript`
+
+> Total **93 file** terdeteksi di repository.
+
+## 🚀 Menjalankan Secara Lokal
+
+Karena ini situs statis (HTML/CSS/JS/PHP), cukup buka `index.html` di browser, atau jalankan server lokal:
+
+```bash
+# Tanpa dependency
+python3 -m http.server 8000
+# lalu buka http://localhost:8000
+
+# atau dengan PHP (untuk form handler di forms/)
+php -S localhost:8000
+```
+
+## 📬 Kontak
+
+- GitHub: [antono4](https://github.com/antono4)
+- Situs: [https://antono4.github.io/Laundry-App/](https://antono4.github.io/Laundry-App/)
+
+## 📄 Lisensi
+
+Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
+
+---
+
+<sub>README ini di-generate otomatis pada **2026-08-13 13:21:41 WIB** oleh GitHub Actions .</sub>
