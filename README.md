@@ -1,1 +1,26 @@
-Last updated: 2026-09-11 20:48:07 WIB
+# Laundry-App
+
+
+
+## 📋 Overview
+
+This repository contains **97 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-11 21:57:57 WIB*
